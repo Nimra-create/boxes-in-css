@@ -1,0 +1,159 @@
+/* box dimensions */
+/* div {
+   
+
+    height: 200px;
+    width:200px ;
+    background-color: wheat;
+
+
+} 
+p{
+    width: 80%;
+
+} */
+/* limiting width */
+/* td.description{
+    min-width: 450px;
+    max-width: 650px;
+    text-align: left;
+    padding: 5px;
+    margin: 0px;
+} */
+/* limiting heigth */
+/* h2, p {
+    width: 400px;
+    font-size: 90%;
+    line-height: 1.2em;}
+    h2 {
+        color: #0088dd;
+        border-bottom: 1px solid #0088dd;}
+        p {
+        
+        max-height: 250px;
+        border: 1px solid red;
+    } */
+    /* overflow */
+    /* p {
+        
+        max-height: 50px;
+        border: 1px solid red;
+        overflow: hidden;
+        overflow: scroll;
+    } */
+    /* border-width */
+    /* one by one */
+    /* p{
+        border-top-width: 1px;
+border-right-width: 2px;
+border-bottom-width: 3px;
+border-left-width: 4px;
+
+    }
+    /* shorthand */
+    /* p{
+
+        border-color: red;
+        border-style: solid;
+        border-width: 10x 2px 3px 4px;
+    }  */
+    /* border-style */
+    /* solid,dashed,groove,ridge */
+    /* p{
+        border-style: solid;
+    } */
+
+    /* border color */
+    /* p{
+        border-color: aliceblue;
+        border-style: solid;
+    } */
+
+    /* border shorthand */
+    /* p{
+        border: 1px red dashed;
+    } */
+
+    /* padding */
+    /* p{
+        border: 1px solid red;
+        padding: 10px;
+    } */
+
+    /* margin */
+    /* p{
+        border: 2px solid red;
+        margin: 2px 4px 50px 10px;
+    } */
+    /* centering content */
+
+    /* p{
+border: 2px solid red;
+width: 300px;
+padding: 50px;
+    }
+    p.example {
+        margin: 10px auto 10px auto;
+        text-align: left;} */
+
+        /* change inline block */
+        /* li{
+            display: inline;
+            margin-right: 10px;
+        }
+        li.coming-soon {
+            display: none;} */
+
+            /* hiding boxes */
+            /* li{
+            display: inline;
+            margin-right: 10px;
+        }
+        li.coming-soon {
+           visibility: hidden;} */
+
+           /* borderimages */
+           /* .one{
+            border: 10px solid transparent;
+            padding: 10px;
+            border-image: url('./images/connect-the-dots.png') 30 round;
+           } */
+/* box shadow */
+/* .one{
+    width: 200px;
+    box-shadow: 5px 5px 5px 5px red;}  */
+
+    /* rounded corners */
+    /* p{
+        width: 200px;
+        margin-left: auto;
+        margin-right: auto;
+        border: 1px solid red;
+        padding: 20px;
+        border-radius: 20px  40px 60px 80px; */ 
+        /* border-bottom-left-radius: 20px;
+        border-bottom-right-radius: 20px;
+        background-color: black;
+        color: beige;
+        border-radius: 200%;
+
+    }*/
+    /* body{
+        background-color: black;
+    }
+    p{
+background-color: white;
+width: 50px;
+height: 50px;
+border-radius: 50%;
+    } */
+
+    img{
+        width: 200px;
+        height: 200px;
+        border: 2px solid red;
+        border-radius: 50%;
+    }
+    
+
+
